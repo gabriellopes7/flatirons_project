@@ -1,0 +1,27 @@
+# Future Improvements
+
+## Backend
+- Implement comprehensive error and debug logging using Winston or Pino
+- Add automated tests using Jest for all modules and services
+- Improve Swagger documentation for better API discoverability
+- Improve error handling with custom exception filters
+- Implement rate limiting for API endpoints
+- Implement database migrations with TypeORM for production
+- Add health check endpoints for container orchestration
+- Implement authentication and authorization (JWT, OAuth)
+- Set up CI/CD pipeline for automated testing and deployment
+- Implement input validation for all endpoints
+- Implement better environment configuration for dev/prod/test
+- Add better data validation and sanitization for CSV imports
+- Add API versioning for better maintainability
+- Implement soft delete for entities
+
+## Frontend
+- Improve component structure with better separation of concerns
+- Implement proper error handling and user feedback
+- Implement responsive design for mobile devices
+- Implement proper environment configuration for dev/prod
+- Add client-side caching for API responses
+- Improve UI/UX with better animations and transitions
+- Add end-to-end testing with Cypress
+- Implement better TypeScript typing and interfaces
